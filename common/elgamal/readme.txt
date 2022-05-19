@@ -1,0 +1,1 @@
+Based on  https://asecuritysite.com/elgamal/go_elgamal && https://github.com/golang/crypto/tree/master/openpgp/elgamal
